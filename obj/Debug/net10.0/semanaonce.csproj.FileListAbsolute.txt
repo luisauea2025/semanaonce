@@ -1,0 +1,15 @@
+/workspaces/semanaonce/obj/Debug/net10.0/semanaonce.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/semanaonce/obj/Debug/net10.0/semanaonce.AssemblyInfoInputs.cache
+/workspaces/semanaonce/obj/Debug/net10.0/semanaonce.AssemblyInfo.cs
+/workspaces/semanaonce/obj/Debug/net10.0/semanaonce.csproj.CoreCompileInputs.cache
+/workspaces/semanaonce/obj/Debug/net10.0/semanaonce.sourcelink.json
+/workspaces/semanaonce/bin/Debug/net10.0/semanaonce
+/workspaces/semanaonce/bin/Debug/net10.0/semanaonce.deps.json
+/workspaces/semanaonce/bin/Debug/net10.0/semanaonce.runtimeconfig.json
+/workspaces/semanaonce/bin/Debug/net10.0/semanaonce.dll
+/workspaces/semanaonce/bin/Debug/net10.0/semanaonce.pdb
+/workspaces/semanaonce/obj/Debug/net10.0/semanaonce.dll
+/workspaces/semanaonce/obj/Debug/net10.0/refint/semanaonce.dll
+/workspaces/semanaonce/obj/Debug/net10.0/semanaonce.pdb
+/workspaces/semanaonce/obj/Debug/net10.0/semanaonce.genruntimeconfig.cache
+/workspaces/semanaonce/obj/Debug/net10.0/ref/semanaonce.dll
